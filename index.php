@@ -7,6 +7,7 @@
     <title>Coba git remote ke server</title>
 </head>
 <body>
-    <h1>Sama</h1>
+    <h1>Hello World</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem quaerat unde ab tempora possimus quidem eos nisi temporibus! Assumenda, nobis.</p>
 </body>
 </html>
